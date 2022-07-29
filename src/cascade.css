@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+table, td {
+    border-collapse: collapse;
+    border: 0px;
+}
+
+.square {
+    width: 3em;
+    height: 3em;
+    background-color: rgb(219, 212, 212);
+    border: 0px;
+    border-radius: 0.5em;
+}
+
+.historic-row input {
+    border: 0px;
+    border-radius: 0.5em;
+    padding: 1em;
+    background-color: rgb(219, 212, 212);
+    width: 7em;
+    text-align: left;
+    margin-bottom: 0.2em;
+}
